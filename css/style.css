@@ -1,0 +1,27 @@
+/*
+Reset
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+html {
+    /* 16.5 * 62.5 / 100 = 10px */
+    font-size: 62.5%; /* => 1rem = 10px */
+}
+
+body {
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h1 span {
+    font-size: .5em;
+}
